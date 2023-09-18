@@ -98,4 +98,34 @@ html, body {
     float: left;
     height: 200px;
     width: 200px;
+    margin: 15px; /* Pushes text away from image*/
+    border-radius: 50%; /*Makes the text circular*/
+}
+
+
+
+/* ------ FOOTER SECTION ------ */
+.main-footer {
+    background-color: #56CCF2;
+    color: white;
+    padding: .25em 0;
+}
+
+.main-footer-container {
+    display: flex;
+    align-items: center;
+}
+
+.main-footer-container ul {
+    flex-grow: 1; /*makes it grow and take up as uch space as possible*/
+    text-align: end;
+}
+
+.footer-nav li {
+    padding: 0 .5em;
+}
+
+.footer-nav img {
+    width: 30px;
+    height: 30px;
 }
