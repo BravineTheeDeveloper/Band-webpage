@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+/* @import url("https://fonts.googleapis.com/css?family=Metal+Mania"); */
+
 * {
     box-sizing: border-box;
+    font-family: Releway;
+    color: #777;
 }
 
 html, body {
