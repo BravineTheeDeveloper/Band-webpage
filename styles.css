@@ -1,0 +1,7 @@
+.main-header {
+    background-color: rgba(0, 0, 0, .6);
+    background-image: url(images/Header\ Background.jpg);
+    background-blend-mode: multiply;
+    background-size: cover; /* Makes background to fit as wide and as tall as it can*/
+    padding-bottom: 30px;
+}
